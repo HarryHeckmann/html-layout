@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    background-color: #D8D8D8;
+    height: 100vh;
+}
+header {
+    background-color: #444444;
+    height: 150px;
+}
+main {
+    margin-left: 25vw;
+    margin-right: 25vw;
+    background-color: #EFEFEF;
+    height: 100vmin;
+}
+footer {
+    background-color: #222222;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    height: 60px;
+}
